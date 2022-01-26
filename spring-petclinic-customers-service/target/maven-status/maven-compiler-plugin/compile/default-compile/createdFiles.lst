@@ -1,0 +1,11 @@
+com\azure\spring\cloud\example\customers\model\OwnerRepository.class
+com\azure\spring\cloud\example\customers\web\PetResource.class
+com\azure\spring\cloud\example\customers\web\PetDetails.class
+com\azure\spring\cloud\example\customers\web\PetRequest.class
+com\azure\spring\cloud\example\customers\CustomersServiceApplication.class
+com\azure\spring\cloud\example\customers\model\Pet.class
+com\azure\spring\cloud\example\customers\model\PetType.class
+com\azure\spring\cloud\example\customers\web\OwnerResource.class
+com\azure\spring\cloud\example\customers\web\ResourceNotFoundException.class
+com\azure\spring\cloud\example\customers\model\Owner.class
+com\azure\spring\cloud\example\customers\model\PetRepository.class
